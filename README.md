@@ -1,4 +1,7 @@
-# contextAsk Backend ( sanitized version )
+# contextAsk Backend (Sanitized Version)
+The site is regularly updated with new features that may not yet be committed to this repository. Visit the live site to experience the latest changes.
+Last update: May 30, 2026.
+Recent updates include temporary/private chat, tools and web search (to reduce hallucinations in normal mode), a more user-friendly UI/UX, improved markdown rendering, and many more features to come.
 
 visit Site at: https://the-project-06-96706.web.app
 
@@ -24,7 +27,6 @@ The secrets are filtered.
 - LangChain
 - Supabase
 - Google Generative AI
-- Voyage AI
 
 ## Project Structure
 
@@ -118,6 +120,7 @@ Main route groups:
 /documents   Document indexing
 /ask         RAG question answering
 /images      Image generation and image management
+/chat( temp ) For Temporary chat
 ```
 
 ## Endpoints
