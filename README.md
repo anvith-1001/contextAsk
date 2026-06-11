@@ -3,7 +3,7 @@ The site is regularly updated with new features that may not yet be committed to
 Last update: May 30, 2026.
 Recent updates include temporary/private chat, tools and web search (to reduce hallucinations in normal mode), a more user-friendly UI/UX, improved markdown rendering, and many more features to come.
 
-visit Site at: https://the-project-06-96706.web.app
+visit Site at: https://contextask.com
 
 A FastAPI backend for document-based retrieval augmented generation, chat management, authenticated user access, and image generation. The service uses MongoDB for application data and vector storage, Supabase for authentication, and Google/Voyage models for generation and embeddings.
 
