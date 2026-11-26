@@ -1,4 +1,4 @@
-# contextAsk Backend (Sanitized Version)
+# ContextAsk Backend (Sanitized Version)
 The site is regularly updated with new features that may not yet be committed to this repository. Visit the live site to experience the latest changes.
 Last update: May 30, 2026.
 Recent updates include temporary/private chat, tools and web search (to reduce hallucinations in normal mode), a more user-friendly UI/UX, improved markdown rendering, and many more features to come.
